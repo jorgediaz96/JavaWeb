@@ -1,0 +1,18 @@
+body{
+	background-color:#FFE333;
+}
+
+h1{
+	color:Maroon;
+	font-weight: oblique;
+	text-align:center;
+}
+
+p {
+  font-family: cursive;
+  color:blue;
+}
+ .d{
+	 column-count:3;
+ }
+ 
